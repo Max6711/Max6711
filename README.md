@@ -121,7 +121,7 @@ const maxim = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://www.linkedin.com/in/maxim-makovskiy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maks1321321@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=safari&logoColor=white)]([https://maximmakovkiy.com])
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=safari&logoColor=white)]((https://www.maximmakovskiy.com))
 
 <img src="https://komarev.com/ghpvc/?username=Max6711&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
