@@ -21,9 +21,9 @@
 const maxim = {
     pronouns: "he/him",
     location: "🇮🇱 Israel",
-    origin: "🇺🇦 Ukraine (since 2019)",
+    origin: "🇺🇦 Ukraine",
     languages: {
-        native: ["Ukrainian", "Russian", "Hebrew"],
+        native: ["Ukrainian", "Hebrew"],
         professional: ["English", "JavaScript", "TypeScript"]
     },
     currentRole: "Full-Stack Developer",
@@ -36,10 +36,8 @@ const maxim = {
     passions: [
         "Building SaaS 💻",
         "Professional Cycling 🚴‍♂️",
-        "Streaming on Twitch 🎮",
-        "Helping Lone Soldiers 💙"
     ],
-    funFact: "I code, cycle, and stream - multitasking pro! 😎"
+    funFact: "I code, cycle 😎"
 };
 ```
 
@@ -103,40 +101,11 @@ const maxim = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Max6711&show_icons=true&theme=react&border_color=00F7FF&border_radius=15&title_color=00F7FF&icon_color=00F7FF&text_color=fff&bg_color=0d1117" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Max6711&theme=react&border=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&border_radius=15&background=0d1117" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max6711&layout=compact&theme=react&border_color=00F7FF&border_radius=15&title_color=00F7FF&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Max6711&custom_title=Contribution%20Graph&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FF6B6B&area_color=00F7FF&area=true&hide_border=false&border_radius=15" alt="Activity Graph" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Max6711&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 💼 What I'm Up To
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> **Current Focus:**
 - 🔨 Scaling WriteMate to 1000+ users
 - 💼 Hunting for Full-Stack opportunities in Israeli tech
-- 🚴‍♂️ Developing Bartali Cycling Center business proposal
 - 📚 Mastering advanced React patterns & AI integrations
 
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Rocket" width="40" /> **Next Goals:**
@@ -163,7 +132,7 @@ const maxim = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://linkedin.com/in/maxim-makovskyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)]([https://linkedin.com/in/maxim-makovskyi](https://www.linkedin.com/in/maxim-makovskiy/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maks1321321@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=safari&logoColor=white)](https://maximmakovkiy.com)
 
