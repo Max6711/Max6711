@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maxim%20Makovskyi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+Expert;AI-Powered+SaaS+Builder;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6+to+Israel+%F0%9F%87%AE%F0%9F%87%B1;Pro+Cyclist+%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F+%7C+Twitch+Streamer+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+Expert;AI-Powered+SaaS+Builder;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6+to+Israel+%F0%9F%87%AE%F0%9F%87%B1;Cyclist+%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F+%7C+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <!-- Animated GIF or Wave -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
