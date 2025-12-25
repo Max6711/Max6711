@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Max6711/Max6711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+```typescript
+const max = {
+    location: "Israel 🇮🇱",
+    languages: ["Ukrainian", "Russian", "Hebrew", "English"],
+    currentFocus: "Building WriteMate - AI-powered content creation platform",
+    background: "IDF Systems Technician → Full-Stack Developer",
+    interests: ["SaaS Development", "AI Integration", "Cycling 🚴‍♂️", "Streaming 🎮"]
+};
+```
