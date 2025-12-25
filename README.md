@@ -115,26 +115,13 @@ const maxim = {
 
 ---
 
-## 🎮 Beyond Code
-
-<div align="center">
-
-| 🚴‍♂️ Professional Cyclist | 🎮 Twitch Streamer | 💙 Lone Soldier Advocate |
-|:---:|:---:|:---:|
-| Competed professionally | Streaming Kirka.io | Supporting IDF lone soldiers |
-| Safety instructor for kids | Building gaming community | Developing Bartali programs |
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)]([https://linkedin.com/in/maxim-makovskyi](https://www.linkedin.com/in/maxim-makovskiy/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://www.linkedin.com/in/maxim-makovskiy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maks1321321@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=safari&logoColor=white)](https://maximmakovkiy.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=safari&logoColor=white)]([https://maximmakovkiy.com])
 
 <img src="https://komarev.com/ghpvc/?username=Max6711&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
