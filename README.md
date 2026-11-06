@@ -89,7 +89,7 @@ const maxim = {
 - 🗄️ SQLite + Sequelize ORM
 - 🌐 VPS Deployment with Nginx & PM2
 
-**🔗 Live:** [writemate.space](https://writemate.space)
+**🔗 Live:** [STORELY](https://askstorely.com)
 
 <a href="https://github.com/Max6711/cloudy-frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Max6711&repo=writemate&theme=react&border_color=00F7FF&border_radius=15&title_color=00F7FF&icon_color=00F7FF" />
